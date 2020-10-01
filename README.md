@@ -1,4 +1,4 @@
-# LeetCode-October-Challenge
+# LeetCode-Solutions
 
-This Repository contains solution of currently ongoing LeetCode October Challenge.\
-Link: https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/
+This Repository contains solution of LeetCode Problems.\
+Link: https://leetcode.com/problemset/all/
